@@ -1,0 +1,26 @@
+/* Estilo para o título principal */
+h1 {
+  font-family: Arial, sans-serif;
+  color: #2c3e50;
+  text-align: center;
+}
+
+/* Estilo para o subtitulo */
+h2 {
+  font-family: "Trebuchet MS", sans-serif;
+  color: #34495e;
+  text-align: center;
+}
+
+/* Estilo para o sub-subtitulo */
+h3 {
+  text-align: justify;
+}
+
+/* Estilo para o parágrafo */
+p {
+  font-family: Georgia, serif;
+  color: #555;
+  text-align: justify;
+  line-height: 1.6;
+}
