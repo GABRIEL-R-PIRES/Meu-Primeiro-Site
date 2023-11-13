@@ -1,42 +1,34 @@
-/* Estilo para o título principal */
-/* h1 {
-  font-family: Arial, sans-serif;
-  color: #2c3e50;
+/* Título */
+h1 {
   text-align: center;
-} */
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
 
-/* Estilo para o subtitulo */
-/* h2 {
-  font-family: "Trebuchet MS", sans-serif;
-  color: #34495e;
+/* Subtítulo */
+h2 {
   text-align: center;
-} */
+  margin-top: 2%;
+  font-family: verdana;
+}
 
-/* Estilo para o sub-subtitulo */
-/* h3 {
-  text-align: justify;
-  color: black;
-  margin-inline: 10%;
-} */
+/* sub-subtítulo */
+h3 {
+  font-family: verdana;
+}
 
-/* Estilo para o parágrafo */
-/* p {
-  font-family: Georgia, serif;
-  margin-inline: 10%;
+/* Parágrafo */
+p {
   text-align: justify;
-  line-height: 1.6;
-} */
-/* img {
-  align-content: first baseline;
+  font-family: arial;
 }
-.sub-subtitulo {
-  text-align: left;
-  color: black;
-  margin-inline: 10%;
+
+/* Alinhar conteúdos */
+body {
+  margin-inline: 300px;
 }
-.img1 {
-  margin-left: 10%;
+
+/* imagens */
+img {
+  margin-inline: 120px;
+  margin-top: 30px;
 }
-.img2 {
-  margin-inline: 5%;
-} */
